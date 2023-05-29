@@ -1,0 +1,6 @@
+body { background-image:url(phillip.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

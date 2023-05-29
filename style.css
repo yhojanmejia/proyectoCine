@@ -1,0 +1,20 @@
+
+
+body{
+    background-color: blueviolet;
+}
+.contenedor{ background-color: rgb(205, 92, 92);
+margin: 120px;
+height: 250px;
+border-radius: 15px;
+padding: 90px;
+width: 60%;
+
+
+}
+
+body{
+    background-image:url(wauwau.png) ;
+    align-items: center;
+}
+
